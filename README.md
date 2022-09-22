@@ -1,13 +1,13 @@
 [![MasterHead](https://animated-gif-creator.com/images/01/custom-logo-design-for-your-business-knb-logos_76.gif)]
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400' src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="coding" width="400' src="https://i.pinimg.com/236x/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna01work&label=Profile%20views&color=0e75b6&style=flat" alt="krishna01work" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna01work" alt="krishna01work" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@its_krishna01" target="blank"><img src="https://img.shields.io/twitter/follow/@its_krishna01?logo=twitter&style=for-the-badge" alt="@its_krishna01" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@its_krishna01" target="blank"><img src="https://img.shields.io/twitter/follow/@its_krishna01?logo=twitter&style=for-the-badge" alt="@its_Krishna01" /></a> </p>
 
 - 👀 I’m interested in programming and dance.
 
