@@ -1,7 +1,6 @@
 [![MasterHead](https://animated-gif-creator.com/images/01/custom-logo-design-for-your-business-knb-logos_76.gif)]
 <h1 align="center">Hi 👋, I'm Krishna</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400' src="https://i.pinimg.com/236x/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.jpg">
+<h3 align="center">Passionate Full Stack Web Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna01work&label=Profile%20views&color=0e75b6&style=flat" alt="krishna01work" /> </p>
 
