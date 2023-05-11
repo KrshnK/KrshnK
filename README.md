@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 💕 I’m looking to meeting with **my soulmate**
+- 💕 I’m looking to meeting with **My Soulmate**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Krishna01work](https://github.com/Krishna01work)
 
