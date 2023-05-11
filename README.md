@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/@its_krishna01" target="blank"><img src="https://img.shields.io/twitter/follow/@its_krishna01?logo=twitter&style=for-the-badge" alt="@its_Krishna01" /></a> </p>
 
-- 👀 I’m interested in programming and dance.
+- 👀 I’m interested in **Programming and Dance**.
 
-- 🎓 I'm currently taking BCA ( Bechelor of Computer Application ) .
+- 🎓 I'm currently taking **BCA ( Bechelor of Computer Application )** .
 
 - 🔭 I’m currently working on **Web practice projects**
 
-- 🌱 I’m currently learning **C language and web development**
+- 🌱 I’m currently learning **Web development**
 
 - 💕 I’m looking to meeting with **my soulmate**
 
