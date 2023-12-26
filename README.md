@@ -1,4 +1,4 @@
-![MasterHead](https://animated-gif-creator.com/images/01/custom-logo-design-for-your-business-knb-logos_76.gif)
+![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">Passionate Full Stack Web Developer From India</h3>
 
