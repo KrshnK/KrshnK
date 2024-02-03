@@ -1,7 +1,7 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 
-<h3 align="center">Passionate Full Stack Web Developer From India</h3>
+<h3 align="center">Passionate MERN Stack Developer From India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna01work&label=Profile%20views&color=0e75b6&style=flat" alt="krishna01work" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna01work" alt="krishna01work" /></a> </p>
 
@@ -14,14 +14,6 @@
 - 🌱 I’m currently learning **Web development**
 
 - 💕 I’m looking to meeting with **My Soulmate**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Krishna01work](https://github.com/Krishna01work)
-
-- 💬 Ask me about **Computer science**
-
-- 📫 How to reach me **krshnwrk01@gmail.com**
-
-- ⚡ Fun fact **I am Funny and Naughty**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
