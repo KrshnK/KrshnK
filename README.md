@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 
 <h3 align="center">Passionate MERN Stack Developer From India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna01work&label=Profile%20views&color=0e75b6&style=flat" alt="krishna01work" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna01work" alt="krishna01work" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna01work&label=Profile%20views&color=0e75b6&style=flat" alt="krshnK" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna01work" alt="krshnK" /></a> </p>
 
 - 👀 I’m interested in **Programming and Dance**.
 
@@ -28,8 +28,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/krshnwrk01x"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="krshnwrk01x" /></a></p><br><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna01work&show_icons=true&locale=en&layout=compact" alt="krishna01work" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krshnK&show_icons=true&locale=en&layout=compact" alt="krshnK" /></p>
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=krishna01work&locale=en" /> -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna01work&show_icons=true" alt="krishna01work" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krshnK&show_icons=true" alt="krshnK" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna01work&" alt="krishna01work" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krshnK&" alt="krshnK" /></p>
