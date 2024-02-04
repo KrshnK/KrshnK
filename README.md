@@ -5,15 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna01work&label=Profile%20views&color=0e75b6&style=flat" alt="krshnK" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KrshnK" alt="KrshnK" /></a> </p>
 
-- 👀 I’m interested in **Programming and Dance**.
+- 👀 Passionate about **Programming and Dance!**
 
-- 🎓 I'm currently taking **BCA ( Bechelor of Computer Application )** .
+- 🎓 Pursuing **BCA (Bachelor of Computer Application)**.
 
-- 🔭 I’m currently working on **Web practice projects**
+- 🔭 Engaged in exciting **Web practice projects**.
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 Currently immersed in the world of **Web Development**.
 
-- 💕 I’m looking to meeting with **My Soulmate**
+- 💕 Searching for **My Soulmate – let's connect and share the journey of life and learning together!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
