@@ -1,5 +1,5 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
-<h1 align="center">Hi 👋, I'm Krishna</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Krishna</h1>
 
 <h3 align="center">Passionate MERN Stack Developer From India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna01work&label=Profile%20views&color=0e75b6&style=flat" alt="krshnK" /> </p>
