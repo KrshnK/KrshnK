@@ -1,0 +1,15 @@
+name: Update Activity Box
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' # Runs every 5 minutes
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update Activity
+        run: |
+          echo -n "![Recent Activity](https://img.shields.io/endpoint?url=https://dev.to/api/articles?username=KrshnK&timeframe=last_7_days)"
+          echo " Last Updated: $(date +'%Y-%m-%d %H:%M:%S')"
+        shell: bash
