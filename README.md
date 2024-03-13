@@ -15,6 +15,15 @@
 
 - 💕 Searching for **My Soulmate – let's connect and share the journey of life and learning together!**
 
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/krishna-k-30325725a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krishna-wrk-30325725a" height="30" width="40" /></a>
