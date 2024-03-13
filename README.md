@@ -19,7 +19,7 @@
 
 ### :zap: Recent Activity
 
-![Recent Activity](https://img.shields.io/endpoint?url=https://dev.to/api/articles?username=your_username&timeframe=last_7_days)
+![Recent Activity](https://img.shields.io/endpoint?url=https://dev.to/api/articles?username=KrshnK&timeframe=last_7_days)
 
 ---
 <h3 align="left">Connect with me:</h3>
