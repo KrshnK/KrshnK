@@ -23,6 +23,7 @@
 <!--END_SECTION:waka-->
 
 ---
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/krishna-k-30325725a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krishna-wrk-30325725a" height="30" width="40" /></a>
