@@ -2,7 +2,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Krishna</h1>
 
 <h3 align="center">Passionate MERN Stack Developer From India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna01work&label=Profile%20views&color=0e75b6&style=flat" alt="krshnK" /> </p>
+
+![Profile View](https://komarev.com/ghpvc/?username=krishna01work&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub watchers](https://img.shields.io/github/watchers/KrshnK/KrshnK.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/KrshnK/watchers/)
+[![GitHub followers](https://img.shields.io/github/followers/KrshnK.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/KrshnK?tab=followers)
+![Ask Me Anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KrshnK" alt="KrshnK" /></a> </p>
 
 - 👀 Passionate about **Programming and Dance!**
