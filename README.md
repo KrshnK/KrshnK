@@ -8,6 +8,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/KrshnK.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/KrshnK?tab=followers)
 ![Ask Me Anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
+[![Sparkline](https://stars.medv.io/KrshnK/badges.svg)](https://stars.medv.io/KrshnK/badges)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KrshnK" alt="KrshnK" /></a> </p>
 
 - 👀 Passionate about **Programming and Dance!**
