@@ -23,9 +23,9 @@
 ###                                                                             :zap: State Activity
 ---
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=krishna01work&locale=en" /> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KrshnK&show_icons=true&locale=en&layout=compact" alt="krshnK" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=KrshnK&" alt="krshnK" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=KrshnK&show_icons=true" alt="krshnK" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KrshnK&show_icons=true&locale=en&layout=compact" alt="krshnK" /></p>
 
 
 <h3 align="left">Support:</h3>
