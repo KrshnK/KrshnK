@@ -26,7 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KrshnK&show_icons=true&locale=en&layout=compact" alt="krshnK" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=KrshnK&" alt="krshnK" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=KrshnK&show_icons=true" alt="krshnK" /></p>
-
-
-<h3>Support:</h3>
 <p><a href="https://www.buymeacoffee.com/krshnwrk01x"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="krshnwrk01x" /></a></p><br><br><br>
