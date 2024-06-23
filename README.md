@@ -15,15 +15,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [KrshnK/KrshnK](https://github.com/KrshnK/KrshnK)<br>
-2. 🎉 Merged PR [#1](https://github.com/KrshnK/KrshnK/pull/1) in [KrshnK/KrshnK](https://github.com/KrshnK/KrshnK)<br>
-3. ⬆️ Pushed 1 commit(s) to [KrshnK/KrshnK](https://github.com/KrshnK/KrshnK)<br>
+1. ⬆️ Pushed 1 commit(s) to [KrshnK/KrshnK](https://github.com/KrshnK/KrshnK)<br>
+2. ⬆️ Pushed 2 commit(s) to [KrshnK/KrshnK](https://github.com/KrshnK/KrshnK)<br>
+3. 🎉 Merged PR [#1](https://github.com/KrshnK/KrshnK/pull/1) in [KrshnK/KrshnK](https://github.com/KrshnK/KrshnK)<br>
 4. ⬆️ Pushed 1 commit(s) to [KrshnK/KrshnK](https://github.com/KrshnK/KrshnK)<br>
 5. ⬆️ Pushed 1 commit(s) to [KrshnK/KrshnK](https://github.com/KrshnK/KrshnK)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 23rd, 2024, 10:13:06 PM (GMT)
+Last Updated: Sunday, June 23rd, 2024, 10:31:41 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 <h3 align="left">Connect with me:</h3>
