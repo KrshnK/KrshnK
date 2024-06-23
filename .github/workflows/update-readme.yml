@@ -2,34 +2,29 @@ name: Update README with Recent Activity
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  push:
+    branches:
+      - main
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v2
 
-    - name: Fetch Recent Activity
-      id: fetch_activity
-      uses: actions/github-script@v5
-      with:
-        script: |
-          const { data: events } = await github.activity.listPublicEventsForUser({
-            username: 'KrshnK',
-            per_page: 5
-          });
-          return events.map(event => `- ${event.type} at ${event.repo.name}`).join('\n');
+      - name: Fetch Recent Activity
+        uses: varunsridharan/github-activity-readme@v1.0.1
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: KrshnK
+          MAX_LINES: 5
 
-    - name: Update README
-      run: |
-        recent_activity="${{ steps.fetch_activity.outputs.result }}"
-        echo -e "## Recent Activity\n\n$recent_activity" > RECENT_ACTIVITY.md
-        cat RECENT_ACTIVITY.md README.md > NEW_README.md
-        mv NEW_README.md README.md
-
-    - name: Commit and Push Changes
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: Update README with recent activity
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update README with recent activity
+          branch: main
+          file_pattern: README.md
