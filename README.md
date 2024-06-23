@@ -10,6 +10,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KrshnK" alt="KrshnK" /></a> </p>
 
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/krishna-k-30325725a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krishna-wrk-30325725a" height="30" width="40" /></a>
 <a href="https://twitter.com/krishnawrk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@its_krishna01" height="30" width="40" /></a>
