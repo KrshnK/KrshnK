@@ -11,9 +11,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KrshnK" alt="KrshnK" /></a> </p>
 
 ---
-
-### :zap: Recent Activity
-
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KrshnK/KrshnK](https://github.com/KrshnK/KrshnK)<br>
 2. ⬆️ Pushed 2 commit(s) to [KrshnK/KrshnK](https://github.com/KrshnK/KrshnK)<br>
