@@ -11,6 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KrshnK" alt="KrshnK" /></a> </p>
 
 ---
+### ⚡Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
 2. ⭐ Starred [SimplifyJobs/Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships)<br>
