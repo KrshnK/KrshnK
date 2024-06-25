@@ -13,15 +13,15 @@
 ---
 ### ⚡Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
-2. ⭐ Starred [SimplifyJobs/Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships)<br>
-3. ⬆️ Pushed 1 commit(s) to [KrshnK/KrshnK](https://github.com/KrshnK/KrshnK)<br>
-4. ⬆️ Pushed 1 commit(s) to [KrshnK/KrshnK](https://github.com/KrshnK/KrshnK)<br>
+1. ⬆️ Pushed 1 commit(s) to [KrshnK/KrshnK](https://github.com/KrshnK/KrshnK)<br>
+2. ⬆️ Pushed 2 commit(s) to [KrshnK/DSA-with-JS](https://github.com/KrshnK/DSA-with-JS)<br>
+3. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
+4. ⭐ Starred [SimplifyJobs/Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships)<br>
 5. ⬆️ Pushed 1 commit(s) to [KrshnK/KrshnK](https://github.com/KrshnK/KrshnK)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 25th, 2024, 4:39:14 AM (GMT)
+Last Updated: Tuesday, June 25th, 2024, 5:09:48 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 <h3 align="left">Connect with me:</h3>
