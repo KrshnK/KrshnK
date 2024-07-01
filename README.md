@@ -13,15 +13,15 @@
 ---
 ### ⚡Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#10](https://github.com/KrshnK/LeetCode/pull/10) in [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
-2. ❌ Closed PR [#8](https://github.com/KrshnK/LeetCode/pull/8) in [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
-3. ❌ Closed PR [#11](https://github.com/KrshnK/LeetCode/pull/11) in [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
-4. ❌ Closed PR [#9](https://github.com/KrshnK/LeetCode/pull/9) in [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
-5. ❌ Closed PR [#7](https://github.com/KrshnK/LeetCode/pull/7) in [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
+1. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
+2. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
+3. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
+4. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
+5. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 1st, 2024, 12:38:11 PM (GMT)
+Last Updated: Monday, July 1st, 2024, 1:22:11 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 <h3 align="left">Connect with me:</h3>
