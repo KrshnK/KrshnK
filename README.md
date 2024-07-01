@@ -13,15 +13,15 @@
 ---
 ### ⚡Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
-2. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
+1. ⬆️ Pushed 2 commit(s) to [KrshnK/Python-projects](https://github.com/KrshnK/Python-projects)<br>
+2. 🎉 Merged PR [#1](https://github.com/KrshnK/Python-projects/pull/1) in [KrshnK/Python-projects](https://github.com/KrshnK/Python-projects)<br>
 3. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
 4. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
 5. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 1st, 2024, 5:38:11 AM (GMT)
+Last Updated: Monday, July 1st, 2024, 5:51:49 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 <h3 align="left">Connect with me:</h3>
