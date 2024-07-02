@@ -16,12 +16,12 @@
 1. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
 2. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
 3. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
-4. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
-5. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
+4. ❌ Closed PR [#14](https://github.com/KrshnK/LeetCode/pull/14) in [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
+5. ❌ Closed PR [#13](https://github.com/KrshnK/LeetCode/pull/13) in [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 2nd, 2024, 6:27:43 AM (GMT)
+Last Updated: Tuesday, July 2nd, 2024, 6:42:45 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 <h3 align="left">Connect with me:</h3>
