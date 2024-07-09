@@ -15,13 +15,13 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
 2. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
-3. ⭐ Starred [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)<br>
-4. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
-5. ⬆️ Pushed 1 commit(s) to [KrshnK/crazy-dark](https://github.com/KrshnK/crazy-dark)<br>
+3. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
+4. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
+5. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 9th, 2024, 6:41:19 PM (GMT)
+Last Updated: Tuesday, July 9th, 2024, 7:16:00 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 <h3 align="left">Connect with me:</h3>
