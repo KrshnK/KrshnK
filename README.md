@@ -13,7 +13,7 @@
 ---
 ### ⚡Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
+1. ⬆️ Pushed 1 commit(s) to [KrshnK/DSA-with-JS](https://github.com/KrshnK/DSA-with-JS)<br>
 2. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
 3. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
 4. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
@@ -21,7 +21,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 20th, 2024, 9:18:52 AM (GMT)
+Last Updated: Saturday, July 20th, 2024, 9:38:51 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 <h3 align="left">Connect with me:</h3>
