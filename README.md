@@ -13,15 +13,15 @@
 ---
 ### ⚡Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KrshnK/KrshnK](https://github.com/KrshnK/KrshnK)<br>
-2. ⬆️ Pushed 1 commit(s) to [KrshnK/KrshnK](https://github.com/KrshnK/KrshnK)<br>
+1. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
+2. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
 3. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
-4. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
-5. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
+4. ⬆️ Pushed 1 commit(s) to [KrshnK/KrshnK](https://github.com/KrshnK/KrshnK)<br>
+5. ⬆️ Pushed 1 commit(s) to [KrshnK/KrshnK](https://github.com/KrshnK/KrshnK)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 24th, 2024, 2:39:40 PM (GMT)
+Last Updated: Wednesday, July 24th, 2024, 3:21:01 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
