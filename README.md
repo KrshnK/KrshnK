@@ -25,9 +25,7 @@ Last Updated: Wednesday, July 24th, 2024, 10:22:27 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
-<a href="https://leetcode.com/sriragavip24032004/">
-    <img src="https://leetcard.jacoblin.cool/KrshnK?theme=dark&font=Azeret%20Mono&ext=heatmap"></img>
-<a>
+![LeetCode Stats](https://leetcard.jacoblin.cool/KrshnK?theme=dark&font=Snippet&ext=heatmap)
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/krishna-k-30325725a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krishna-wrk-30325725a" height="30" width="40" /></a>
