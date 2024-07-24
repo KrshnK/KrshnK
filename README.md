@@ -13,15 +13,15 @@
 ---
 ### ⚡Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
-2. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
+1. ⬆️ Pushed 1 commit(s) to [KrshnK/KrshnK](https://github.com/KrshnK/KrshnK)<br>
+2. ⬆️ Pushed 1 commit(s) to [KrshnK/KrshnK](https://github.com/KrshnK/KrshnK)<br>
 3. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
 4. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
 5. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 24th, 2024, 10:39:54 AM (GMT)
+Last Updated: Wednesday, July 24th, 2024, 11:16:03 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
