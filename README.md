@@ -13,7 +13,7 @@
 ---
 ### ⚡Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
+1. ⭐ Starred [code100x/js-interview-prep](https://github.com/code100x/js-interview-prep)<br>
 2. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
 3. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
 4. ⬆️ Pushed 1 commit(s) to [KrshnK/LeetCode](https://github.com/KrshnK/LeetCode)<br>
@@ -21,7 +21,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 27th, 2024, 10:19:38 AM (GMT)
+Last Updated: Saturday, July 27th, 2024, 10:37:54 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
