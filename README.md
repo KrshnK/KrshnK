@@ -52,8 +52,6 @@ Last Updated: Wednesday, August 28th, 2024, 11:39:01 PM (GMT)
     </a>
 </div>
 
-
-
 <!-- Activity Graph card -->
 </br>
 </br>
